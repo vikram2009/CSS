@@ -2,3 +2,7 @@
     --redishpink: linear-gradient(to top right, #e52a5a, #ff585f);
     --greenish: linear-gradient(to top left, #28b487, #7dd56f);
 }
+
+  body {
+        background-image: var(--redishpink);
+    }
